@@ -59,3 +59,8 @@ Mock mode is enabled by default, which does not place any order and just check a
 3. Refactoring
 
 I will put this project on hold now as the price goes up and down so much. Hope this can help anyone with similar interests.
+
+
+############# Suggestions from a loyal fan ##################
+Sir, i very uch love the work you're doing on this project. its awesome. Though, i suggest that we upgrade the python version support from that version 2 to python 3. we could use python-modernize or '2to3' to automate some of the cahanges needed in the code rather than do that manually.
+I wish to hear a feedback from you soon sir.
